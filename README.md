@@ -1,6 +1,7 @@
 # Disaster-Related Loss of Social Infrastructure and Spatial Access to Community Services: Evidence from California Wildfires
 
 Code and derived data for ...pending...
+Archived at 10.5281/zenodo.20767276
 
 Starting from a geocoded, multi-agency inventory of California social-infrastructure facilities, this repository reproduces the analysis end to end: it attributes wildfire facility losses (2018–2025), translates them into displaced service capacity, overlays the CDC/ATSDR Social Vulnerability Index, models spatial access with an enhanced two-step floating catchment area (E2SFCA) model with per-fire attribution, tests capacity-adjusted absorption for skilled-nursing beds and childcare slots, and generates the figures.
 
