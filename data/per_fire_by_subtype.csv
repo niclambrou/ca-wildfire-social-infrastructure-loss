@@ -1,0 +1,50 @@
+fire_id,fire_name,fire_year,category,subtype,complete_loss,impacted,no_damage,not_matched,total_in_perimeter,lost_or_impacted,pct_complete_loss,pct_impacted,pct_lost_or_impacted
+6-5_2025,6-5,2025.0,school,Elementary Schools (Public),1,0,0,0,1,1,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,childcare_center,DAY CARE CENTER,3,0,0,0,3,3,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,childcare_center,SCHOOL AGE DAY CARE CENTER,2,0,0,0,2,2,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,childcare_center,SINGLE LICENSED CHILD CARE CENTER,1,0,0,0,1,1,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,hospital_clinic,Community Clinic,0,0,1,0,1,0,0.0,0.0,0.0
+CAMP_2018,CAMP,2018.0,hospital_clinic,General Acute Care Hospital,1,0,0,0,1,1,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,residential_elderly_disabled,Hospice Facility,0,0,1,0,1,0,0.0,0.0,0.0
+CAMP_2018,CAMP,2018.0,residential_elderly_disabled,RESIDENTIAL CARE ELDERLY,2,0,2,0,4,2,50.0,0.0,50.0
+CAMP_2018,CAMP,2018.0,residential_elderly_disabled,Skilled Nursing Facility,3,0,0,0,3,3,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,school,Adult Education Centers,1,0,0,0,1,1,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,school,Continuation High Schools,1,0,0,0,1,1,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,school,District Community Day Schools,0,0,2,0,2,0,0.0,0.0,0.0
+CAMP_2018,CAMP,2018.0,school,Elementary Schools (Public),4,0,1,0,5,4,80.0,0.0,80.0
+CAMP_2018,CAMP,2018.0,school,High Schools (Public),0,0,1,0,1,0,0.0,0.0,0.0
+CAMP_2018,CAMP,2018.0,school,Intermediate/Middle Schools (Public),1,0,0,0,1,1,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,school,Junior High Schools (Public),0,0,1,0,1,0,0.0,0.0,0.0
+CAMP_2018,CAMP,2018.0,school,K-12 Schools (Public),0,0,2,0,2,0,0.0,0.0,0.0
+CAMP_2018,CAMP,2018.0,school,Preschool,0,0,1,0,1,0,0.0,0.0,0.0
+CARR_2018,CARR ,2018.0,residential_elderly_disabled,ADULT RESIDENTIAL,1,0,0,0,1,1,100.0,0.0,100.0
+CARR_2018,CARR ,2018.0,residential_elderly_disabled,RESIDENTIAL CARE ELDERLY,0,0,0,1,1,0,0.0,0.0,0.0
+CARR_2018,CARR ,2018.0,school,Elemen Schools In 1 School Dist. (Public),0,1,0,1,2,1,0.0,50.0,50.0
+CREEK_2020,CREEK,2020.0,childcare_center,DAY CARE CENTER,1,0,1,0,2,1,50.0,0.0,50.0
+CREEK_2020,CREEK,2020.0,school,Elemen Schools In 1 School Dist. (Public),1,1,0,0,2,2,50.0,50.0,100.0
+DIXIE_2021,DIXIE,2021.0,childcare_center,DAY CARE CENTER,0,0,1,0,1,0,0.0,0.0,0.0
+DIXIE_2021,DIXIE,2021.0,school,Elementary Schools (Public),0,0,1,0,1,0,0.0,0.0,0.0
+DIXIE_2021,DIXIE,2021.0,school,High Schools (Public),1,0,0,0,1,1,100.0,0.0,100.0
+EATON_2025,EATON,2025.0,childcare_center,DAY CARE CENTER,8,1,1,0,10,9,80.0,10.0,90.0
+EATON_2025,EATON,2025.0,childcare_center,INFANT CENTER,2,0,0,0,2,2,100.0,0.0,100.0
+EATON_2025,EATON,2025.0,childcare_center,SCHOOL AGE DAY CARE CENTER,1,0,0,0,1,1,100.0,0.0,100.0
+EATON_2025,EATON,2025.0,hospital_clinic,Chronic Dialysis Clinic,0,0,1,0,1,0,0.0,0.0,0.0
+EATON_2025,EATON,2025.0,residential_elderly_disabled,ADULT RESIDENTIAL,12,1,4,0,17,13,70.6,5.9,76.5
+EATON_2025,EATON,2025.0,residential_elderly_disabled,Congregate Living Health Facility,1,0,0,0,1,1,100.0,0.0,100.0
+EATON_2025,EATON,2025.0,residential_elderly_disabled,RESIDENTIAL CARE ELDERLY,4,0,2,0,6,4,66.7,0.0,66.7
+EATON_2025,EATON,2025.0,residential_elderly_disabled,Skilled Nursing Facility,1,1,0,0,2,2,50.0,50.0,100.0
+EATON_2025,EATON,2025.0,school,Elementary Schools (Public),0,0,2,0,2,0,0.0,0.0,0.0
+EATON_2025,EATON,2025.0,school,Intermediate/Middle Schools (Public),1,0,0,0,1,1,100.0,0.0,100.0
+GLASS_2020,GLASS,2020.0,childcare_center,DAY CARE CENTER,1,0,1,0,2,1,50.0,0.0,50.0
+GLASS_2020,GLASS,2020.0,hospital_clinic,General Acute Care Hospital,0,0,1,0,1,0,0.0,0.0,0.0
+GLASS_2020,GLASS,2020.0,residential_elderly_disabled,RESIDENTIAL CARE ELDERLY,0,0,1,0,1,0,0.0,0.0,0.0
+MOUNTAIN_2024,MOUNTAIN,2024.0,residential_elderly_disabled,RESIDENTIAL CARE ELDERLY,0,0,2,0,2,0,0.0,0.0,0.0
+MOUNTAIN_2024,MOUNTAIN,2024.0,residential_elderly_disabled,SOCIAL REHABILITATION FACILITY,2,0,0,0,2,2,100.0,0.0,100.0
+NORTH COMPLEX_2020,NORTH COMPLEX,2020.0,school,Elemen Schools In 1 School Dist. (Public),1,0,0,0,1,1,100.0,0.0,100.0
+PALISADES_2025,PALISADES,2025.0,childcare_center,DAY CARE CENTER,5,1,2,0,8,6,62.5,12.5,75.0
+PALISADES_2025,PALISADES,2025.0,childcare_center,INFANT CENTER,0,0,1,0,1,0,0.0,0.0,0.0
+PALISADES_2025,PALISADES,2025.0,childcare_center,SCHOOL AGE DAY CARE CENTER,1,1,0,0,2,2,50.0,50.0,100.0
+PALISADES_2025,PALISADES,2025.0,childcare_center,SINGLE LICENSED CHILD CARE CENTER,1,0,0,0,1,1,100.0,0.0,100.0
+PALISADES_2025,PALISADES,2025.0,residential_elderly_disabled,RESIDENTIAL CARE ELDERLY,4,0,0,0,4,4,100.0,0.0,100.0
+PALISADES_2025,PALISADES,2025.0,school,Elementary Schools (Public),1,1,0,0,2,2,50.0,50.0,100.0
+PALISADES_2025,PALISADES,2025.0,school,High Schools (Public),1,0,0,0,1,1,100.0,0.0,100.0

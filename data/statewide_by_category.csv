@@ -1,0 +1,5 @@
+category,complete_loss,impacted,no_damage,not_matched,outside_all_perimeters,total_active,in_a_perimeter,lost_or_impacted,pct_of_all_lost_or_impacted,pct_of_all_complete_loss
+childcare_center,26,3,8,4,18221,18262,41,29,0.16,0.14
+hospital_clinic,1,0,3,0,3205,3209,4,1,0.03,0.03
+residential_elderly_disabled,30,2,15,7,23457,23511,54,32,0.14,0.13
+school,14,3,14,6,12408,12445,37,17,0.14,0.11
