@@ -1,0 +1,24 @@
+fire_id,fire_name,fire_year,category,complete_loss,impacted,no_damage,not_matched,total_in_perimeter,lost_or_impacted,pct_complete_loss,pct_impacted,pct_lost_or_impacted
+CAMP_2018,CAMP,2018.0,childcare_center,6,0,0,0,6,6,100.0,0.0,100.0
+CAMP_2018,CAMP,2018.0,hospital_clinic,1,0,1,0,2,1,50.0,0.0,50.0
+CAMP_2018,CAMP,2018.0,residential_elderly_disabled,5,0,3,0,8,5,62.5,0.0,62.5
+CAMP_2018,CAMP,2018.0,school,7,0,8,0,15,7,46.7,0.0,46.7
+CARR_2018,CARR ,2018.0,residential_elderly_disabled,1,0,0,1,2,1,50.0,0.0,50.0
+CARR_2018,CARR ,2018.0,school,0,1,0,1,2,1,0.0,50.0,50.0
+CREEK_2020,CREEK,2020.0,childcare_center,1,0,1,0,2,1,50.0,0.0,50.0
+CREEK_2020,CREEK,2020.0,school,1,1,0,0,2,2,50.0,50.0,100.0
+GLASS_2020,GLASS,2020.0,childcare_center,1,0,1,0,2,1,50.0,0.0,50.0
+GLASS_2020,GLASS,2020.0,hospital_clinic,0,0,1,0,1,0,0.0,0.0,0.0
+GLASS_2020,GLASS,2020.0,residential_elderly_disabled,0,0,1,0,1,0,0.0,0.0,0.0
+NORTH COMPLEX_2020,NORTH COMPLEX,2020.0,school,1,0,0,0,1,1,100.0,0.0,100.0
+DIXIE_2021,DIXIE,2021.0,childcare_center,0,0,1,0,1,0,0.0,0.0,0.0
+DIXIE_2021,DIXIE,2021.0,school,1,0,1,0,2,1,50.0,0.0,50.0
+MOUNTAIN_2024,MOUNTAIN,2024.0,residential_elderly_disabled,2,0,2,0,4,2,50.0,0.0,50.0
+6-5_2025,6-5,2025.0,school,1,0,0,0,1,1,100.0,0.0,100.0
+EATON_2025,EATON,2025.0,childcare_center,11,1,1,0,13,12,84.6,7.7,92.3
+EATON_2025,EATON,2025.0,hospital_clinic,0,0,1,0,1,0,0.0,0.0,0.0
+EATON_2025,EATON,2025.0,residential_elderly_disabled,18,2,6,0,26,20,69.2,7.7,76.9
+EATON_2025,EATON,2025.0,school,1,0,2,0,3,1,33.3,0.0,33.3
+PALISADES_2025,PALISADES,2025.0,childcare_center,7,2,3,0,12,9,58.3,16.7,75.0
+PALISADES_2025,PALISADES,2025.0,residential_elderly_disabled,4,0,0,0,4,4,100.0,0.0,100.0
+PALISADES_2025,PALISADES,2025.0,school,2,1,0,0,3,3,66.7,33.3,100.0

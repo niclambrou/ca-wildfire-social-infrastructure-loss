@@ -1,0 +1,49 @@
+category,subtype,complete_loss,impacted,no_damage,not_matched,outside_all_perimeters,total_active,in_a_perimeter,lost_or_impacted,pct_of_all_lost_or_impacted,pct_of_all_complete_loss
+childcare_center,DAY CARE CENTER,18,2,6,4,11011,11041,30,20,0.18,0.16
+childcare_center,DAY CARE CENTER - ILL CENTER,0,0,0,0,7,7,0,0,0.0,0.0
+childcare_center,INFANT CENTER,2,0,1,0,2682,2685,3,2,0.07,0.07
+childcare_center,SCHOOL AGE DAY CARE CENTER,4,1,1,0,2405,2411,6,5,0.21,0.17
+childcare_center,SINGLE LICENSED CHILD CARE CENTER,2,0,0,0,2116,2118,2,2,0.09,0.09
+hospital_clinic,Acute Psychiatric Hospital,0,0,0,0,45,45,0,0,0.0,0.0
+hospital_clinic,Alternative Birthing Center,0,0,0,0,16,16,0,0,0.0,0.0
+hospital_clinic,Chemical Dep. Recovery Hospital,0,0,0,0,8,8,0,0,0.0,0.0
+hospital_clinic,Chronic Dialysis Clinic,0,0,1,0,723,724,1,0,0.0,0.0
+hospital_clinic,Community Clinic,0,0,1,0,1750,1751,1,0,0.0,0.0
+hospital_clinic,Free Clinic,0,0,0,0,60,60,0,0,0.0,0.0
+hospital_clinic,General Acute Care Hospital,1,0,1,0,480,482,2,1,0.21,0.21
+hospital_clinic,Psychiatric Health Facility,0,0,0,0,39,39,0,0,0.0,0.0
+hospital_clinic,Psychology Clinic,0,0,0,0,22,22,0,0,0.0,0.0
+hospital_clinic,Rehabilitation Clinic,0,0,0,0,15,15,0,0,0.0,0.0
+hospital_clinic,Surgical Clinic,0,0,0,0,47,47,0,0,0.0,0.0
+residential_elderly_disabled,ADULT RESIDENTIAL,13,1,4,0,8438,8456,18,14,0.17,0.15
+residential_elderly_disabled,ADULT RESIDENTIAL FACILITY FOR PERSONS WITH SPECIAL HEALTH CARE NEEDS,0,0,0,0,116,116,0,0,0.0,0.0
+residential_elderly_disabled,COMMUNITY CRISIS HOME - ARF,0,0,3,0,33,36,3,0,0.0,0.0
+residential_elderly_disabled,Congregate Living Health Facility,1,0,0,3,332,336,4,1,0.3,0.3
+residential_elderly_disabled,ENHANCED BEHAVIORAL SUPPORTS HOME - ARF,0,0,0,0,132,132,0,0,0.0,0.0
+residential_elderly_disabled,Hospice Facility,0,0,1,0,17,18,1,0,0.0,0.0
+residential_elderly_disabled,ICF/Dev. Disabled,0,0,0,0,13,13,0,0,0.0,0.0
+residential_elderly_disabled,Intermediate Care Facility,0,0,0,0,5,5,0,0,0.0,0.0
+residential_elderly_disabled,RCFE-CONTINUING CARE RETIREMENT COMMUNITY,0,0,0,0,121,121,0,0,0.0,0.0
+residential_elderly_disabled,RESIDENTIAL CARE ELDERLY,10,0,7,1,12577,12595,18,10,0.08,0.08
+residential_elderly_disabled,RESIDENTIAL FACILITY CHRONICALLY ILL,0,0,0,0,16,16,0,0,0.0,0.0
+residential_elderly_disabled,SOCIAL REHABILITATION FACILITY,2,0,0,3,525,530,5,2,0.38,0.38
+residential_elderly_disabled,Skilled Nursing Facility,4,1,0,0,1131,1136,5,5,0.44,0.35
+school,Adult Education Centers,1,0,0,0,355,356,1,1,0.28,0.28
+school,Alternative Schools of Choice,0,0,0,0,420,420,0,0,0.0,0.0
+school,Continuation High Schools,1,0,0,1,533,535,2,1,0.19,0.19
+school,County Community,0,0,0,0,129,129,0,0,0.0,0.0
+school,District Community Day Schools,0,0,2,0,417,419,2,0,0.0,0.0
+school,Elemen Schools In 1 School Dist. (Public),2,2,0,1,240,245,5,4,1.63,0.82
+school,Elementary Schools (Public),6,1,7,1,6194,6209,15,7,0.11,0.1
+school,High Schools (Public),2,0,1,1,1507,1511,4,2,0.13,0.13
+school,High Schools In 1 School Dist. (Public),0,0,0,0,9,9,0,0,0.0,0.0
+school,Intermediate/Middle Schools (Public),2,0,0,0,1425,1427,2,2,0.14,0.14
+school,Junior High Schools (Public),0,0,1,0,60,61,1,0,0.0,0.0
+school,Juvenile Court Schools,0,0,0,1,87,88,1,0,0.0,0.0
+school,K-12 Schools (Public),0,0,2,1,537,540,3,0,0.0,0.0
+school,Opportunity Schools,0,0,0,0,41,41,0,0,0.0,0.0
+school,Preschool,0,0,1,0,180,181,1,0,0.0,0.0
+school,ROC/ROP,0,0,0,0,77,77,0,0,0.0,0.0
+school,Special Education Schools (Public),0,0,0,0,190,190,0,0,0.0,0.0
+school,State Special Schools,0,0,0,0,3,3,0,0,0.0,0.0
+school,Youth Authority Facilities,0,0,0,0,4,4,0,0,0.0,0.0
